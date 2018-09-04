@@ -1,0 +1,6 @@
+C:\Users\MINESH\Documents\Visual Studio 2017\Projects\Watermango\Watermango\bin\Debug\Watermango.exe.config
+C:\Users\MINESH\Documents\Visual Studio 2017\Projects\Watermango\Watermango\bin\Debug\Watermango.exe
+C:\Users\MINESH\Documents\Visual Studio 2017\Projects\Watermango\Watermango\bin\Debug\Watermango.pdb
+C:\Users\MINESH\Documents\Visual Studio 2017\Projects\Watermango\Watermango\obj\Debug\Watermango.exe
+C:\Users\MINESH\Documents\Visual Studio 2017\Projects\Watermango\Watermango\obj\Debug\Watermango.pdb
+C:\Users\MINESH\Documents\Visual Studio 2017\Projects\Watermango\Watermango\obj\Debug\Watermango.csprojResolveAssemblyReference.cache
